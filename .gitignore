@@ -1,7 +1,3 @@
-# Git LFS pointer files
-*.pbix
-*.csv
-
 # Temporary files
 *.tmp
 *.log
