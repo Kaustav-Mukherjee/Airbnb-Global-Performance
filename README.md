@@ -9,8 +9,8 @@ This project analyzes Airbnb's global performance using data from various region
 - **Data-Driven Insights**: Key performance indicators (KPIs) for hosts and guests.
 
 ## Dashboard Screenshots
-![Dashboard Overview](images/dashboard-010.png)
-![Performance Metrics](images/dashboard-018.png)
+![Dashboard Overview](images/Dashboard%201.png)
+![Performance Metrics](images/Dashboard%202.png)
 
 ## Data Source
 The dataset includes:
